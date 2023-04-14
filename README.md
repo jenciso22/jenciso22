@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-🔭 I’m currently working on automation testing<br>👯 I’m looking to collaborate on software testing-related<br>🌱 I’m currently learning playwright + JS<br>💬 Ask me about automation testing<br>⚡ Fun fact - I like all sports and financial topics
+🔭 I’m currently working on automation testing<br>👯 I’m looking to collaborate on software testing-related<br>🌱 I’m currently learning playwright + JS<br>💬 Ask me about automation testing<br>⚡ Fun fact - I like all sports, but I just go to the GYM
 
 
 ## 🌐 Socials:
