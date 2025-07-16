@@ -48,16 +48,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jenciso22&theme=radical&show_icons=true&hide_border=false&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jenciso22&theme=radical&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenciso22&layout=compact&theme=radical&hide_border=false" />
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="left">
