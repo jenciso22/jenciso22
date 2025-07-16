@@ -48,6 +48,7 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
+  <img width="12" />
 </p>
 
 ---
