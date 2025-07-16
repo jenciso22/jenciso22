@@ -28,7 +28,7 @@
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/null/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" title="Postman" alt="Postman"/>
   <img src="https://playwright.dev/img/playwright-logo.svg" title="Playwright" alt="Playwright" width="40"/>
   <img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" title="Cypress" alt="Cypress" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" title="AWS" alt="AWS" width="40"/>
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" title="AWS" alt="AWS" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40"/>
 </p>
