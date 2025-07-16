@@ -14,7 +14,7 @@
 
 ## 🛠️ Technologies
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
@@ -28,8 +28,6 @@
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=playwright" height="40" alt="Playwright" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cypress" height="40" alt="Cypress" />
   <img width="12" />
@@ -48,8 +46,6 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=canva" height="40" alt="Canva" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
   <img width="12" />
