@@ -1,5 +1,5 @@
 <h1 align="left">Welcome, I'm William 👋</h1>
-<p align="left"><strong>Automation QA | Test Automation | AI Enthusiast</strong></p>
+<p align="left"><strong>🧪 Automation QA | ⚙️Test Automation | 🤖 AI Enthusiast</strong></p>
 
 ---
 
