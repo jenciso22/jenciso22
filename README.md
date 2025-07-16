@@ -5,18 +5,26 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working in **Automation Testing**
-- 🤝 Open to **collaborations** on software testing and QA projects
-- 🧠 Exploring the world of **Artificial Intelligence**
-- 💬 Ask me anything about **Playwright**, **Cypress**, or **Test Automation**
-- ⚡ Fun fact: I like all sports — but only hit the **gym** 😄
+<p align="center">
+  🔭 Currently working in <strong>Automation Testing</strong><br>
+  🤝 Open to <strong>collaborations</strong> on software testing and QA projects<br>
+  🧠 Exploring the world of <strong>Artificial Intelligence</strong><br>
+  💬 Ask me anything about <strong>Playwright</strong>, <strong>Cypress</strong>, or <strong>Test Automation</strong><br>
+  ⚡ Fun fact: I like all sports — but only hit the <strong>gym</strong> 😄
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/wennciso)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-william-enciso-guzmán-14583713b)
+<p align="center">
+  <a href="https://instagram.com/wennciso">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/jose-william-enciso-guzmán-14583713b">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -62,6 +70,10 @@
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dark&bgColor=%230D1117&textColor=%23fff" />
 </p>
 
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=jenciso22&icon=0&color=0" />
+</p>
 
 <!-- Proudly designed and personalized with ❤️ by William -->
-
