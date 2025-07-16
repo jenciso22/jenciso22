@@ -1,5 +1,5 @@
-<h1 align="left">Welcome, I'm William 👋
-<strong>🧪 Automation QA | ⚙️Test Automation | 🤖 AI Enthusiast</strong></h1>
+<h1 align="center">Hey there, I'm William 👋</h1>
+<p align="center">🧪 Automation QA Engineer | ⚙️ Playwright & API Testing | 🤖 AI Enthusiast</p>
 
 
 ## 🧑‍💻 About Me
