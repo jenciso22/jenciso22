@@ -1,10 +1,8 @@
 <p align="left">
   <h1 align="center">Hey there, I'm William 👋</h1><br/>
-  <span style="font-size:0.7em;">
     📌 <strong>Automation QA Engineer</strong> &nbsp;|&nbsp;
     ⚙️ <strong>Playwright & API Testing</strong> &nbsp;|&nbsp;
     🤖 <strong>AI Enthusiast</strong>
-  </span>
 </p>
 
 
