@@ -49,6 +49,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins" />
+  <img width="12" />
 </p>
 
 ---
