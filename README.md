@@ -51,6 +51,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gherkin" height="40" alt="gherkin" />
+  <img width="12" />
 </p>
 
 ---
