@@ -1,5 +1,4 @@
 <h1 align="center">Hey there, I'm William 👋</h1>
-
 <p align="center">
   📌 <strong>Automation QA Engineer</strong> &nbsp;|&nbsp;
   ⚙️ <strong>Playwright & API Testing</strong> &nbsp;|&nbsp;
