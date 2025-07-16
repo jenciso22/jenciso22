@@ -48,14 +48,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=jenciso22&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
-</p>
-
----
-
 ## ✍️ Dev Quote
 
 <p align="left">
