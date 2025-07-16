@@ -14,28 +14,45 @@
 
 ## 🛠️ Technologies
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=playwright" height="40" alt="Playwright" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cypress" height="40" alt="Cypress" />
-  <img src="https://skillicons.dev/icons?i=testcafe" height="40" alt="TestCafe" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=jest" height="40" alt="Jest" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=jira" height="40" alt="Jira" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=sqlserver" height="40" alt="SQL Server" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=canva" height="40" alt="Canva" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
 </p>
 
