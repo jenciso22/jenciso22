@@ -50,7 +50,7 @@
 
 ## ✍️ Dev Quote
 
-<p align="left">
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
@@ -58,7 +58,7 @@
 
 ## 😂 Dev Joke
 
-<p align="left">
+<p align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dark&bgColor=%230D1117&textColor=%23fff" />
 </p>
 
