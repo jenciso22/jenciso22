@@ -59,7 +59,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jenciso22&theme=radical&show_icons=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jenciso22&theme=radical" height="150"/>
 </p>
@@ -67,7 +67,7 @@
 
 ## ✍️ Dev Quote
 
-<p align="center">
+<p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
