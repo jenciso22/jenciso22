@@ -22,7 +22,7 @@
 
 ## 💻 Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -50,7 +50,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jenciso22&theme=radical&show_icons=true&hide_border=false&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jenciso22&theme=radical&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenciso22&layout=compact&theme=radical&hide_border=false" />
@@ -60,7 +60,7 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=jenciso22&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
 </p>
 
@@ -68,7 +68,7 @@
 
 ## ✍️ Dev Quote
 
-<p align="center">
+<p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
@@ -76,7 +76,7 @@
 
 ## 😂 Dev Joke
 
-<p align="center">
+<p align="left">
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dark&bgColor=%230D1117&textColor=%23fff" />
 </p>
 
