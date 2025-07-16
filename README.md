@@ -1,6 +1,6 @@
-<h1 align="center">Hey there, I'm William 👋</h1>
+<h1 align="left">Hey there, I'm William 👋</h1>
 
-<p align="center">
+<p align="left">
   <sub>
     📌 <strong>Automation QA Engineer</strong> &nbsp;|&nbsp;
     ⚙️ <strong>Playwright & API Testing</strong> &nbsp;|&nbsp;
