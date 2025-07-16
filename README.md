@@ -91,7 +91,7 @@
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://visitcount.itsvg.in/api?id=jenciso22&icon=0&color=0" />
 </p>
 
