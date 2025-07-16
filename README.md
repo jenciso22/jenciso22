@@ -53,6 +53,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gherkin" height="40" alt="gherkin" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres" />
 </p>
 
 ---
