@@ -35,8 +35,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jira" height="40" alt="Jira" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
