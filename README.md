@@ -1,7 +1,6 @@
 <h1 align="left">Welcome, I'm William 👋</h1>
 <p align="left"><strong>🧪 Automation QA | ⚙️Test Automation | 🤖 AI Enthusiast</strong></p>
 
----
 
 ## 🧑‍💻 About Me
 
@@ -10,7 +9,6 @@
 - 🔧 I strive to become better every day — technically and personally.
 - 🤝 I love working in **teams** and sharing **knowledge**.
 
----
 
 ## 🛠️ Technologies
 
@@ -58,7 +56,6 @@
   <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium" />
 </p>
 
----
 
 ## 📈 GitHub Stats
 
@@ -67,7 +64,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jenciso22&theme=radical" height="150"/>
 </p>
 
----
 
 ## ✍️ Dev Quote
 
