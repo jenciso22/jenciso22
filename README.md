@@ -54,6 +54,8 @@
   <img src="https://skillicons.dev/icons?i=gherkin" height="40" alt="gherkin" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium" />
 </p>
 
 ---
