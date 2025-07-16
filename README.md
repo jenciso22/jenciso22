@@ -1,5 +1,5 @@
-<h1 align="center">Welcome, I'm William 👋</h1>
-<p align="center"><strong>Automation QA | Test Automation | AI Enthusiast</strong></p>
+<h1 align="left">Welcome, I'm William 👋</h1>
+<p align="left"><strong>Automation QA | Test Automation | AI Enthusiast</strong></p>
 
 ---
 
@@ -14,7 +14,7 @@
 
 ## 🛠️ Technologies
 
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
@@ -37,7 +37,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jenciso22&theme=radical&show_icons=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jenciso22&theme=radical" height="150"/>
 </p>
@@ -46,7 +46,7 @@
 
 ## ✍️ Dev Quote
 
-<p align="center">
+<p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
