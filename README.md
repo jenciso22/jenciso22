@@ -14,8 +14,29 @@
 
 ## 🛠️ Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,postman,playwright,cypress,testcafe,jest,jira,aws,mysql,sqlserver,figma,canva,git,github,vscode,linux" height="40" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=playwright" height="40" alt="Playwright" />
+  <img src="https://skillicons.dev/icons?i=cypress" height="40" alt="Cypress" />
+  <img src="https://skillicons.dev/icons?i=testcafe" height="40" alt="TestCafe" />
+  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="Jest" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=jira" height="40" alt="Jira" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=sqlserver" height="40" alt="SQL Server" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=canva" height="40" alt="Canva" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
 </p>
 
 ---
